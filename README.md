@@ -59,4 +59,5 @@ At **QuillAudits**, our team comprises seasoned blockchain architects, developer
 - Post-Audit Support: We Offer Assistance for Any Queries or Concerns Arising After the Audit, Along with Exposure Through Social Channels, Free AMAs, and Connection with Developers and Security Experts Through Our Academy Initiative
 - Post-Audit Insurance Coverage: We Provide Insurance for Your Protocol, Ensuring Investor Confidence
 
-Choose QuillAudits for uncompromising security and peace of mind in the world of blockchain and DApps.
+Choose QuillAudits for uncompromising security and peace of mind in the world of blockchain and DApps./runner
+/config.sh remove
